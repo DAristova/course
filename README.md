@@ -1,2 +1,3 @@
 # course
-Courses for python dev.
+
+## this project was created to test git repository and ssh keys.
